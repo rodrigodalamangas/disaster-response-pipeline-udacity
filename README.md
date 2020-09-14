@@ -27,9 +27,9 @@ This project is divided in the following key sections:
 <a name="screenshots"></a>
 ## Screenshots
 
-![Main Page](screenshots/main.png)
+![Main Page](screenshots/main.PNG)
 
-![Input Page](screenshots/input.png)
+![Input Page](screenshots/input.PNG)
 
 <a name="getting_started"></a>
 ## Getting Started
